@@ -1,0 +1,30 @@
+Bureau of Justice Statistics,,,,,,,,,
+File name: cpus16t04.csv,,,,,,,,,
+"Table 4. Rate of persons supervised by U.S. adult correctional systems, by correctional status, 2000 and 2006–2016",,,,,,,,,
+"Report title: Correctional Populations in the United States, 2016   NCJ 251211",,,,,,,,,
+"Data source: Bureau of Justice Statistics, Annual Probation Survey, Annual Parole Survey, Annual Survey of Jails, and National Prisoner Statistics program, 2006–2016.",,,,,,,,,
+"Author: Danielle Kaeble and Mary Cowhig, BJS Statisticians",,,,,,,,,
+Refer questions to: askbjs@usdoj.gov or (202) 307-0765,,,,,,,,,
+Date of version: 4/26/2018,,,,,,,,,
+ ,,,,,,,,,
+"Table 4. Rate of persons supervised by U.S. adult correctional systems, by correctional status, 2000 and 2006–2016",,,,,,,,,
+,Total correctional population/a,,,,Community supervision population,,,Incarcerated population/b,
+Year,"Number supervised per 100,000 U.S. adult residents/c",U.S. adult residents under correctional supervision ,"Number supervised per 100,000 U.S. residents of all ages/d",,"Number on probation or parole per 100,000 U.S. adult residents/c","Number on probation or parole per 100,000 U.S. residents of all ages/d",,"Number in prison or local jail per 100,000 U.S. adult residents/c","Number in prison or local jail per 100,000 U.S. residents of all ages/d"
+2000,"3,060",1 in 33,"2,280",,"2,160","1,610",,920,690
+2006,"3,190",1 in 31,"2,400",,"2,230","1,680",,"1,000",750
+2007,"3,210",1 in 31,"2,420",,"2,240","1,690",,"1,000",760
+2008,"3,160",1 in 32,"2,390",,"2,200","1,670",,"1,000",760
+2009,"3,100",1 in 32,"2,350",,"2,150","1,630",,980,750
+2010,"3,000",1 in 33,"2,280",,"2,070","1,570",,960,730
+2011,"2,930",1 in 34,"2,240",,"2,020","1,540",,940,720
+2012,"2,880",1 in 35,"2,210",,"1,980","1,520",,920,710
+2013,"2,830",1 in 35,"2,170",,"1,950","1,490",,910,700
+2014,"2,780",1 in 36,"2,140",,"1,910","1,470",,900,690
+2015,"2,710",1 in 37,"2,090",,"1,870","1,440",,870,680
+2016,"2,640",1 in 38,"2,040",,"1,810","1,400",,860,670
+Note: Rates are estimated to the nearest 10. Estimates may not be comparable to previously published BJS reports due to updated information or rounding. See the Key Statistics page on the BJS website for correctional population statistics prior to 2000 or other years excluded in this table. ,,,,,,,,,
+"a/Includes offenders in the community under the authority of probation or parole agencies, under the jurisdiction of state or federal prisons, or in the custody of local jails.",,,,,,,,,
+b/Includes offenders under the jurisdiction of state or federal prisons or held in local jails.  ,,,,,,,,,
+"c/Rates are based on U.S. Census Bureau estimates of the U.S. resident population, age 18 or older, for January 1 of the following year.",,,,,,,,,
+"d/Rates are based on U.S. Census Bureau estimates of the U.S. resident population, all ages, for January 1 of the following year.",,,,,,,,,
+"Source: Bureau of Justice Statistics, Annual Probation Survey, Annual Parole Survey, Annual Survey of Jails, and National Prisoner Statistics program, 2000 and 2006–2016; and U.S. Census Bureau, postcensal resident populations for January of the following year 2001 and 2006–2016. ",,,,,,,,,
