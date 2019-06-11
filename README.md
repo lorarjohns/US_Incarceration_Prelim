@@ -33,9 +33,9 @@ Student's t-test
 
 We reject ${H_0}$ since our calculated t-statistic is 2.19, which is greater than the t-critical value, 1.66.
 
-![Screen%20Shot%202019-06-10%20at%2015.54.38.png](attachment:Screen%20Shot%202019-06-10%20at%2015.54.38.png)
-![Screen%20Shot%202019-06-10%20at%2015.55.29.png](attachment:Screen%20Shot%202019-06-10%20at%2015.55.29.png)
-![Screen%20Shot%202019-06-10%20at%2015.55.01.png](attachment:Screen%20Shot%202019-06-10%20at%2015.55.01.png)
+![Screen%20Shot%202019-06-10%20at%2015.54.38.png](Screen%20Shot%202019-06-10%20at%2015.54.38.png)
+![Screen%20Shot%202019-06-10%20at%2015.55.29.png](Screen%20Shot%202019-06-10%20at%2015.55.29.png)
+![Screen%20Shot%202019-06-10%20at%2015.55.01.png](Screen%20Shot%202019-06-10%20at%2015.55.01.png)
 
 ## Hypothesis 2: The proportion of incarcerated people to the total population differs in correlation with whether a state has Republican or Democratic senators 
 
@@ -57,8 +57,8 @@ For the 114th Congress:
 
 Result: Cannot reject null hypothesis. Further data collection warranted to increase power of hypothesis test.
 
-![Screen%20Shot%202019-06-10%20at%2015.45.53.png](attachment:Screen%20Shot%202019-06-10%20at%2015.45.53.png)
-![Screen%20Shot%202019-06-10%20at%2015.46.42.png](attachment:Screen%20Shot%202019-06-10%20at%2015.46.42.png)
+![Screen%20Shot%202019-06-10%20at%2015.45.53.png](Screen%20Shot%202019-06-10%20at%2015.45.53.png)
+![Screen%20Shot%202019-06-10%20at%2015.46.42.png](Screen%20Shot%202019-06-10%20at%2015.46.42.png)
 
 ### Next step: Increase the power of the hypothesis test with a larger sample (add Congresses)
 
@@ -76,7 +76,7 @@ _What next?_
 
 ## Hypothesis 4: Eastern states will have a lower rate of exonerations than Western states
 
-![EasternUS.png](attachment:EasternUS.png)
+![EasternUS.png](EasternUS.png)
 
 ${H_0}: \textrm{The exoneration rate for murder (exoneration count/population) for Eastern states is the same or higher than the exoneration rate for murder in other states.}$
 ${H_\alpha}: \textrm{The exoneration rate for murder (exoneration count/population) for Eastern is lower than the exoneration rate for murder in other states.}$
@@ -91,10 +91,10 @@ Independent 2-sample t-test
 
 Failed to reject the null hypothesis
 
-![ex_per_capita.png](attachment:ex_per_capita.png)
+![ex_per_capita.png](ex_per_capita.png)
 
-![Screen%20Shot%202019-06-10%20at%2012.44.46.png](attachment:Screen%20Shot%202019-06-10%20at%2012.44.46.png)
+![Screen%20Shot%202019-06-10%20at%2012.44.46.png](Screen%20Shot%202019-06-10%20at%2012.44.46.png)
 
-![Screen%20Shot%202019-06-10%20at%2012.45.12.png](attachment:Screen%20Shot%202019-06-10%20at%2012.45.12.png)
+![Screen%20Shot%202019-06-10%20at%2012.45.12.png](Screen%20Shot%202019-06-10%20at%2012.45.12.png)
 
-![Screen%20Shot%202019-06-10%20at%2012.45.46.png](attachment:Screen%20Shot%202019-06-10%20at%2012.45.46.png)
+![Screen%20Shot%202019-06-10%20at%2012.45.46.png](Screen%20Shot%202019-06-10%20at%2012.45.46.png)
