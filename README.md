@@ -71,7 +71,29 @@ _What next?_
 + Two-way ANOVA, with time and political valence (to increase observations and therefore power)
 + Repeated measures ANOVA (because prison population is expected to be similar over time) 
 
-## Hypothesis 3:
+## Hypothesis 3: The rate of exoneration for murder in a state is correlated to the rate of incarceration for murder in that state
+
+H0: The exoneration for murder rate for a state is not correlated with the incarceration for murder rate in that state
+
+Ha: The exoneration for murder rate for a state is correlated with the incarceration for murder rate in that state
+
+a = 0.05
+
+### Method
+
+Used scipy.stats.pearsonr to obtain Pearson’s correlation coefficient and two-tailed p-value 
+
+Murder exoneratation rate for each state was calculated by taking the aggregate of all murder manslaughter in the United States between 2001 and 2016 for each state and dividing that number by the average state population between 2001 and 2016.
+
+Murder incarceration rate for each state was calculated by taking the aggregate of all murder incarcerations in the United States between 2001 and 2016 for each state and dividing that number by the average state population between 2001 and 2016.
+
+Please note, Federal exonerations and incarcerations were not counted.  Data from Puerto Rico was not included in final test.
+
+### Findings
+
+Since our alpha value is 0.05 and our calculated p-value is 0.021343638483385798, we can reject our null hypothesis. The exoneration rate for a state is positively correlated by 0.3248 to the incarceration rate for a state.
+
+States that have a higher rate of exoneration for murder are seeing higher rates of incarceration for murder.  This would make it appear that crime, specifically murder is more prevalent in states who's criminal justice systems have failed it's people.
 
 ## Hypothesis 4: Eastern states will have a lower rate of exonerations than Western states
 
