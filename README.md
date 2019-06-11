@@ -87,13 +87,13 @@ The murder exoneratation rate for each state was calculated by taking the aggreg
 
 The murder incarceration rate for each state was calculated by taking the aggregate of all murder incarcerations in the United States between 2001 and 2016 for each state and dividing that number by the average state population between 2001 and 2016.
 
-![Screen%Shot%2019-06-11%at%2.12.15%PM](Screen%Shot%2019-06-11%at%2.12.15%PM.png)
+![imgerika1](imgerika1.png)
 
 Federal exonerations and incarcerations were not counted.  Data from Puerto Rico was not included in the final test.
 
 ### Findings
 
-![Screen%Shot%2019-06-11%at%2.12.36%PM.png](Screen%25Shot%252019-06-11%25at%252.12.36%PM.png)
+![imgerika2](imgerika2.png)
 
 Since our alpha value is 0.05 and our calculated p-value is 0.0213, we can reject our null hypothesis. The exoneration rate for a state is positively correlated by 0.3248 to the incarceration rate for a state.
 
