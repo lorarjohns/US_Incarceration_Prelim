@@ -19,11 +19,11 @@ We aggregated data from the [Bureau of Justice Statistics](https://www.kaggle.co
 
 ## Hypothesis 1: The mean prison population has increased from 2012 to 2016
 
-${H_0}: \textrm{The mean prison population has not changed significantly from 2012 to 2016}$
+H0: The mean prison population has not changed significantly from 2012 to 2016
 
-${H_\alpha}: \textrm{The mean prison population has significanlty changed from 2012 to 2016}$
+Ha: The mean prison population has significanlty changed from 2012 to 2016
 
-$\alpha = 0.05$
+a = 0.05
 
 ### Method
 
@@ -31,7 +31,7 @@ Student's t-test
 
 ### Findings
 
-We reject ${H_0}$ since our calculated t-statistic is 2.19, which is greater than the t-critical value, 1.66.
+We reject H0 since our calculated t-statistic is 2.19, which is greater than the t-critical value, 1.66.
 
 ![Screen%20Shot%202019-06-10%20at%2015.54.38.png](Screen%20Shot%202019-06-10%20at%2015.54.38.png)
 ![Screen%20Shot%202019-06-10%20at%2015.55.29.png](Screen%20Shot%202019-06-10%20at%2015.55.29.png)
@@ -39,11 +39,10 @@ We reject ${H_0}$ since our calculated t-statistic is 2.19, which is greater tha
 
 ## Hypothesis 2: The proportion of incarcerated people to the total population differs in correlation with whether a state has Republican or Democratic senators 
 
-${H_0}: \textrm{There is no difference in the total incarcerated population between states with Republican and Democratic senators}$
-${H_\alpha}: \textrm{There is a difference between the proportion of incarcerated persons to total population between Republican and Democratic states
-}$
+H0: There is no difference in the total incarcerated population between states with Republican and Democratic senators
+Ha: There is a difference between the proportion of incarcerated persons to total population between Republican and Democratic states
 
-$\alpha = 0.05$
+a = 0.05$
 
 ### Method
 
@@ -78,10 +77,10 @@ _What next?_
 
 ![EasternUS.png](EasternUS.png)
 
-${H_0}: \textrm{The exoneration rate for murder (exoneration count/population) for Eastern states is the same or higher than the exoneration rate for murder in other states.}$
-${H_\alpha}: \textrm{The exoneration rate for murder (exoneration count/population) for Eastern is lower than the exoneration rate for murder in other states.}$
+H0: The exoneration rate for murder (exoneration count/population) for Eastern states is the same or higher than the exoneration rate for murder in other states.
+Ha: The exoneration rate for murder (exoneration count/population) for Eastern is lower than the exoneration rate for murder in other states.
 
-$\alpha = 0.05$
+a = 0.05$
 
 ### Method
 
