@@ -5,7 +5,7 @@
 
 For the Mod 3 project, we set out to investigate government data related to the incarcerated population in the United States. The U.S. has the [highest incarceration rate per capita](https://www.prisonpolicy.org/reports/pie2019.html) of _any_ nation, and the data that elucidate the matter are diffuse and difficult to parse. 
 
-![pie2019.png](attachment:pie2019.png)
+![pie2019.png](pie2019.png)
 
 Some common problems include:
 
