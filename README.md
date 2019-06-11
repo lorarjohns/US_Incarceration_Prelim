@@ -94,7 +94,7 @@ Please note, Federal exonerations and incarcerations were not counted.  Data fro
 
 ### Findings
 
-![Screen Shot 2019-06-11 at 2.12.36 PM](Screen%Shot%2019-06-11%at52.12.36%PM.png)
+![Screen%Shot%2019-06-11%at%2.12.36%PM.png](Screen%Shot%2019-06-11%at%2.12.36%PM.png)
 
 Since our alpha value is 0.05 and our calculated p-value is 0.021343638483385798, we can reject our null hypothesis. The exoneration rate for a state is positively correlated by 0.3248 to the incarceration rate for a state.
 
