@@ -87,7 +87,8 @@ Murder exoneratation rate for each state was calculated by taking the aggregate 
 
 Murder incarceration rate for each state was calculated by taking the aggregate of all murder incarcerations in the United States between 2001 and 2016 for each state and dividing that number by the average state population between 2001 and 2016.
 
-![Screen Shot 2019-06-11 at 2.12.15 PM](Screen%Shot%2019-06-11%at%2.12.15%PM.png)
+![Screen%Shot%2019-06-11%at%2.12.15%PM.png](Screen%Shot%2019-06-11%at%2.12.15%PM.png)
+
 
 Please note, Federal exonerations and incarcerations were not counted.  Data from Puerto Rico was not included in final test.
 
