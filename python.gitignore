@@ -75,6 +75,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
 */.ipynb_checkpoints/*
 .DS_Store
 
@@ -124,3 +125,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
