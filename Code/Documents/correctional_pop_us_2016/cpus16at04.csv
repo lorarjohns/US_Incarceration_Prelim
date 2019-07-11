@@ -1,0 +1,25 @@
+Bureau of Justice Statistics,,
+File name: cpus16at04.csv,,
+"Appendix table 4. Standard errors for local jail inmates at midyear, 2006–2016",,
+"Report title: Correctional Populations in the United States, 2016   NCJ 251211",,
+"Data source: Bureau of Justice Statistics, Annual Probation Survey, Annual Parole Survey, Annual Survey of Jails, and National Prisoner Statistics program, 2006–2016.",,
+"Author: Danielle Kaeble and Mary Cowhig, BJS Statisticians",,
+Refer questions to: askbjs@usdoj.gov or (202) 307-0765,,
+Date of version: 4/26/2018,,
+,,
+"Appendix table 4. Standard errors for local jail inmates at midyear, 2006–2016",,
+Year,Total,Standard error*
+2006,"765,800","3,550"
+2007,"780,200","3,720"
+2008,"785,500","4,020"
+2009,"767,400","4,230"
+2010,"748,700","5,430"
+2011,"735,600","6,010"
+2012,"744,500","7,680"
+2013,"731,200","8,040"
+2014,"744,600","8,380"
+2015,"727,400","7,190"
+2016,"740,700","5,940"
+Note: Population estimates are rounded to the nearest 100. Standard errors are rounded to the nearest 10.,,
+"*Unless noted for a specific year, data are based on the number of inmates confined on the last weekday in June. ",,
+"Source: Bureau of Justice Statistics, Annual Survey of Jails, 2006–2016. ",,

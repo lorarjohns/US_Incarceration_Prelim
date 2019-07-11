@@ -1,0 +1,32 @@
+Bureau of Justice Statistics,,,,,,,,
+File name: cpus16t05.csv,,,,,,,,
+"Table 5. Number of offenders with dual correctional statuses at year-end, by correctional status, 2000–2016",,,,,,,,
+"Report title: Correctional Populations in the United States, 2016   NCJ 251211",,,,,,,,
+"Data source: Bureau of Justice Statistics, Annual Probation Survey, Annual Parole Survey, Annual Survey of Jails, and National Prisoner Statistics program, 2006–2016.",,,,,,,,
+"Author: Danielle Kaeble and Mary Cowhig, BJS Statisticians",,,,,,,,
+Refer questions to: askbjs@usdoj.gov or (202) 307-0765,,,,,,,,
+Date of version: 4/26/2018,,,,,,,,
+,,,,,,,,
+"Table 5. Number of offenders with dual correctional statuses at year-end, by correctional status, 2000–2016",,,,,,,,
+,, ,Probationers in—,,,Parolees—,,
+Year ,Total,Prisoners held in local jail,Local jail,State or federal prison,,In local jail,In state or federal prison,On probation
+2000,"112,500","70,000","20,400","22,100",, : , : , : 
+2001,"116,100","72,500","23,400","20,200",, : , : , : 
+2002,"122,800","72,600","29,300","20,900",, : , : , : 
+2003,"120,400","73,400","25,500","21,500",, : , : , : 
+2004,"130,400","74,400","34,400","21,600",, : , : , : 
+2005,"164,500","73,100","32,600","22,100",,"18,300","18,400", : 
+2006,"169,900","77,900","33,900","21,700",,"20,700","15,700", : 
+2007,"156,400","80,600","19,300","23,100",,"18,800","14,600", : 
+2008,"178,500","83,500","23,800","32,400",,"19,300","15,600","3,900"
+2009,"168,100","85,200","21,400","23,100",,"19,100","14,300","5,000"
+2010,"170,300","83,400","21,300","21,500",,"21,400","14,400","8,300"
+2011,"169,300","82,100","21,100","22,300",,"18,000","14,900","11,000"
+2012,"168,400","83,600","21,200","21,700",,"18,500","10,700","12,700"
+2013,"170,800","85,700","22,400","16,700",,"21,800","11,800","12,500"
+2014,"176,100","81,800","23,500","24,600",,"21,800","11,600","12,900"
+2015,"174,000","81,200","24,400","28,200",,"19,600","11,200","9,400"
+2016,"180,500","83,700","24,400","24,000",,"24,500","13,000","10,800"
+Note: Estimates are rounded to the nearest 100 and may not be comparable to previously published BJS reports due to updated information. Detail may not sum to total due to rounding.,,,,,,,,
+: Not calculated or excluded from total correctional population.,,,,,,,,
+"Source: Bureau of Justice Statistics, Annual Probation Survey, Annual Parole Survey, and National Prisoner Statistics program, 2000–2016.",,,,,,,,
